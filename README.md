@@ -2,7 +2,7 @@
 
 A new take on the iOS volume HUD. A mobile substrate tweak.
 
-[Get it on Dynastic Repo](https://get.dyn.dev/ultrasound)
+[Get it on onejailbreak.com](https://onejailbreak.com/blog/ultrasound-tweak/)
 
 ## Reporting Issues
 
